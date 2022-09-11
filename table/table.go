@@ -8,7 +8,7 @@ import (
 	"github.com/K-Phoen/grabana/target/graphite"
 	"github.com/K-Phoen/grabana/target/influxdb"
 	"github.com/K-Phoen/grabana/target/prometheus"
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 )
 
 // Option represents an option that can be used to configure a table panel.

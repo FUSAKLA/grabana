@@ -1,6 +1,6 @@
 package fields
 
-import "github.com/K-Phoen/sdk"
+import "github.com/FUSAKLA/sdk"
 
 type OverrideOption func(field *sdk.FieldConfigOverride)
 

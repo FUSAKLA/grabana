@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 	"github.com/stretchr/testify/require"
 )
 

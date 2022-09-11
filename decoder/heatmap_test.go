@@ -5,7 +5,7 @@ import (
 
 	"github.com/K-Phoen/grabana/heatmap/axis"
 	"github.com/K-Phoen/grabana/row"
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 	"github.com/stretchr/testify/require"
 )
 

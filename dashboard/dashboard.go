@@ -15,7 +15,7 @@ import (
 	"github.com/K-Phoen/grabana/variable/datasource"
 	"github.com/K-Phoen/grabana/variable/interval"
 	"github.com/K-Phoen/grabana/variable/query"
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 )
 
 // TagAnnotation describes an annotation represented as a Tag.

@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/K-Phoen/grabana/variable/datasource"
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 	"github.com/stretchr/testify/require"
 )
 

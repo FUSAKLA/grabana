@@ -6,7 +6,7 @@ import (
 	"github.com/K-Phoen/grabana/target/loki"
 	"github.com/K-Phoen/grabana/target/prometheus"
 	"github.com/K-Phoen/grabana/target/stackdriver"
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 )
 
 // WithPrometheusTarget adds a prometheus query to the graph.

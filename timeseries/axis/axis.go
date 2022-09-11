@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 )
 
 // PlacementMode represents the axis display placement mode.

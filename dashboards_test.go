@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 
 	"github.com/K-Phoen/grabana/alert"
 

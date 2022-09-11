@@ -10,7 +10,7 @@ import (
 
 	"github.com/K-Phoen/grabana/alert"
 	"github.com/K-Phoen/grabana/alertmanager"
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 )
 
 // ErrAlertNotFound is returned when the requested alert can not be found.

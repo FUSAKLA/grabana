@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	"github.com/K-Phoen/grabana/alertmanager"
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 )
 
 // Option represents an option that can be used to configure an "email"

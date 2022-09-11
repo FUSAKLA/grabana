@@ -291,6 +291,7 @@ type (
 			Mode        string   `json:"mode"`
 		} `json:"color"`
 		DataFormat      string `json:"dataFormat"`
+		Calculate       bool   `json:"calculate"`
 		HideZeroBuckets bool   `json:"hideZeroBuckets"`
 		HighlightCards  bool   `json:"highlightCards"`
 		Legend          struct {
@@ -317,9 +318,10 @@ type (
 			Min         *string  `json:"min"`
 			SplitFactor *float64 `json:"splitFactor"`
 		} `json:"yAxis"`
-		YBucketBound  string   `json:"yBucketBound"`
-		YBucketNumber *float64 `json:"yBucketNumber"`
-		YBucketSize   *float64 `json:"yBucketSize"`
+		YBucketBound  string      `json:"yBucketBound"`
+		YBucketNumber *float64    `json:"yBucketNumber"`
+		YBucketSize   *float64    `json:"yBucketSize"`
+		FieldConfig   FieldConfig `json:"fieldConfig"`
 	}
 	TimeseriesPanel struct {
 		Targets     []Target          `json:"targets,omitempty"`

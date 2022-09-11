@@ -1,7 +1,7 @@
 package alertmanager
 
 import (
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 )
 
 // RoutingPolicyOption represents an option that can be used to configure a

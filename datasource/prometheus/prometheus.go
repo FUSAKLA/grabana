@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/K-Phoen/grabana/datasource"
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 )
 
 var _ datasource.Datasource = Prometheus{}

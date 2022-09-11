@@ -1,7 +1,7 @@
 package stackdriver
 
 import (
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 )
 
 func defaultAlignmentOpts() sdk.StackdriverAlignOptions {

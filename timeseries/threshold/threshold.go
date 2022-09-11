@@ -1,7 +1,7 @@
 package threshold
 
 import (
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 )
 
 // Mode represents the type of value used as threshold.

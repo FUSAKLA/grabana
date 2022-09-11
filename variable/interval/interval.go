@@ -4,7 +4,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/K-Phoen/sdk"
+	"github.com/FUSAKLA/sdk"
 	"github.com/prometheus/common/model"
 )
 
