@@ -9,7 +9,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/K-Phoen/grabana/dashboard"
+	"github.com/FUSAKLA/grabana/dashboard"
 	"github.com/FUSAKLA/sdk"
 )
 

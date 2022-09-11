@@ -3,11 +3,11 @@ package graph
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/axis"
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/graph/series"
-	"github.com/K-Phoen/grabana/links"
-	"github.com/K-Phoen/grabana/target/stackdriver"
+	"github.com/FUSAKLA/grabana/axis"
+	"github.com/FUSAKLA/grabana/errors"
+	"github.com/FUSAKLA/grabana/graph/series"
+	"github.com/FUSAKLA/grabana/links"
+	"github.com/FUSAKLA/grabana/target/stackdriver"
 	"github.com/stretchr/testify/require"
 )
 

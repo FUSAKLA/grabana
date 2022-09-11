@@ -7,14 +7,14 @@ import (
 	"encoding/hex"
 	"encoding/json"
 
-	"github.com/K-Phoen/grabana/alert"
+	"github.com/FUSAKLA/grabana/alert"
 
-	"github.com/K-Phoen/grabana/row"
-	"github.com/K-Phoen/grabana/variable/constant"
-	"github.com/K-Phoen/grabana/variable/custom"
-	"github.com/K-Phoen/grabana/variable/datasource"
-	"github.com/K-Phoen/grabana/variable/interval"
-	"github.com/K-Phoen/grabana/variable/query"
+	"github.com/FUSAKLA/grabana/row"
+	"github.com/FUSAKLA/grabana/variable/constant"
+	"github.com/FUSAKLA/grabana/variable/custom"
+	"github.com/FUSAKLA/grabana/variable/datasource"
+	"github.com/FUSAKLA/grabana/variable/interval"
+	"github.com/FUSAKLA/grabana/variable/query"
 	"github.com/FUSAKLA/sdk"
 )
 

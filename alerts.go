@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/alertmanager"
+	"github.com/FUSAKLA/grabana/alert"
+	"github.com/FUSAKLA/grabana/alertmanager"
 	"github.com/FUSAKLA/sdk"
 )
 

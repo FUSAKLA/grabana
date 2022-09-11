@@ -3,11 +3,11 @@ package table
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/links"
-	"github.com/K-Phoen/grabana/target/graphite"
-	"github.com/K-Phoen/grabana/target/influxdb"
-	"github.com/K-Phoen/grabana/target/prometheus"
+	"github.com/FUSAKLA/grabana/errors"
+	"github.com/FUSAKLA/grabana/links"
+	"github.com/FUSAKLA/grabana/target/graphite"
+	"github.com/FUSAKLA/grabana/target/influxdb"
+	"github.com/FUSAKLA/grabana/target/prometheus"
 	"github.com/FUSAKLA/sdk"
 )
 

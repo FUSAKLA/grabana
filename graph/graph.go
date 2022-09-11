@@ -3,15 +3,15 @@ package graph
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/axis"
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/graph/series"
-	"github.com/K-Phoen/grabana/links"
-	"github.com/K-Phoen/grabana/target/graphite"
-	"github.com/K-Phoen/grabana/target/influxdb"
-	"github.com/K-Phoen/grabana/target/prometheus"
-	"github.com/K-Phoen/grabana/target/stackdriver"
+	"github.com/FUSAKLA/grabana/alert"
+	"github.com/FUSAKLA/grabana/axis"
+	"github.com/FUSAKLA/grabana/errors"
+	"github.com/FUSAKLA/grabana/graph/series"
+	"github.com/FUSAKLA/grabana/links"
+	"github.com/FUSAKLA/grabana/target/graphite"
+	"github.com/FUSAKLA/grabana/target/influxdb"
+	"github.com/FUSAKLA/grabana/target/prometheus"
+	"github.com/FUSAKLA/grabana/target/stackdriver"
 	"github.com/FUSAKLA/sdk"
 )
 

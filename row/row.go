@@ -1,16 +1,16 @@
 package row
 
 import (
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/gauge"
-	"github.com/K-Phoen/grabana/graph"
-	"github.com/K-Phoen/grabana/heatmap"
-	"github.com/K-Phoen/grabana/logs"
-	"github.com/K-Phoen/grabana/singlestat"
-	"github.com/K-Phoen/grabana/stat"
-	"github.com/K-Phoen/grabana/table"
-	"github.com/K-Phoen/grabana/text"
-	"github.com/K-Phoen/grabana/timeseries"
+	"github.com/FUSAKLA/grabana/alert"
+	"github.com/FUSAKLA/grabana/gauge"
+	"github.com/FUSAKLA/grabana/graph"
+	"github.com/FUSAKLA/grabana/heatmap"
+	"github.com/FUSAKLA/grabana/logs"
+	"github.com/FUSAKLA/grabana/singlestat"
+	"github.com/FUSAKLA/grabana/stat"
+	"github.com/FUSAKLA/grabana/table"
+	"github.com/FUSAKLA/grabana/text"
+	"github.com/FUSAKLA/grabana/timeseries"
 	"github.com/FUSAKLA/sdk"
 )
 

@@ -3,7 +3,7 @@ package series
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/errors"
+	"github.com/FUSAKLA/grabana/errors"
 	"github.com/FUSAKLA/sdk"
 )
 

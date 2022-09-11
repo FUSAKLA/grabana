@@ -3,8 +3,8 @@ package logs
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/links"
+	"github.com/FUSAKLA/grabana/errors"
+	"github.com/FUSAKLA/grabana/links"
 	"github.com/stretchr/testify/require"
 )
 

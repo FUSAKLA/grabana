@@ -3,13 +3,13 @@ package timeseries
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/links"
-	"github.com/K-Phoen/grabana/scheme"
-	"github.com/K-Phoen/grabana/timeseries/axis"
-	"github.com/K-Phoen/grabana/timeseries/fields"
-	"github.com/K-Phoen/grabana/timeseries/threshold"
+	"github.com/FUSAKLA/grabana/alert"
+	"github.com/FUSAKLA/grabana/errors"
+	"github.com/FUSAKLA/grabana/links"
+	"github.com/FUSAKLA/grabana/scheme"
+	"github.com/FUSAKLA/grabana/timeseries/axis"
+	"github.com/FUSAKLA/grabana/timeseries/fields"
+	"github.com/FUSAKLA/grabana/timeseries/threshold"
 	"github.com/FUSAKLA/sdk"
 )
 

@@ -3,7 +3,7 @@ package loki
 import (
 	"encoding/json"
 
-	"github.com/K-Phoen/grabana/datasource"
+	"github.com/FUSAKLA/grabana/datasource"
 	"github.com/FUSAKLA/sdk"
 )
 

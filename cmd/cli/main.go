@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/K-Phoen/grabana/cmd/cli/cmd"
+	"github.com/FUSAKLA/grabana/cmd/cli/cmd"
 	"github.com/spf13/cobra"
 )
 

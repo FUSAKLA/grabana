@@ -14,7 +14,7 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/K-Phoen/grabana/decoder"
+	"github.com/FUSAKLA/grabana/decoder"
 )
 
 func main() {

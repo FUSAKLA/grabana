@@ -1,8 +1,8 @@
 package decoder
 
 import (
-	"github.com/K-Phoen/grabana/dashboard"
-	"github.com/K-Phoen/grabana/row"
+	"github.com/FUSAKLA/grabana/dashboard"
+	"github.com/FUSAKLA/grabana/row"
 )
 
 // DashboardRow represents a dashboard row.

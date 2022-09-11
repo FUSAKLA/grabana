@@ -4,8 +4,8 @@ import (
 	"testing"
 	"time"
 
-	alertBuilder "github.com/K-Phoen/grabana/alert"
-	"github.com/K-Phoen/grabana/alert/queries/stackdriver"
+	alertBuilder "github.com/FUSAKLA/grabana/alert"
+	"github.com/FUSAKLA/grabana/alert/queries/stackdriver"
 	"github.com/stretchr/testify/require"
 )
 

@@ -3,7 +3,7 @@ package decoder
 import (
 	"testing"
 
-	"github.com/K-Phoen/grabana/alert"
+	"github.com/FUSAKLA/grabana/alert"
 	"github.com/stretchr/testify/require"
 )
 

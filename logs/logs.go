@@ -3,9 +3,9 @@ package logs
 import (
 	"fmt"
 
-	"github.com/K-Phoen/grabana/errors"
-	"github.com/K-Phoen/grabana/links"
-	"github.com/K-Phoen/grabana/target/loki"
+	"github.com/FUSAKLA/grabana/errors"
+	"github.com/FUSAKLA/grabana/links"
+	"github.com/FUSAKLA/grabana/target/loki"
 	"github.com/FUSAKLA/sdk"
 )
 

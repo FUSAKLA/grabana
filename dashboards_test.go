@@ -11,12 +11,12 @@ import (
 
 	"github.com/FUSAKLA/sdk"
 
-	"github.com/K-Phoen/grabana/alert"
+	"github.com/FUSAKLA/grabana/alert"
 
-	"github.com/K-Phoen/grabana/dashboard"
-	"github.com/K-Phoen/grabana/row"
-	"github.com/K-Phoen/grabana/text"
-	"github.com/K-Phoen/grabana/timeseries"
+	"github.com/FUSAKLA/grabana/dashboard"
+	"github.com/FUSAKLA/grabana/row"
+	"github.com/FUSAKLA/grabana/text"
+	"github.com/FUSAKLA/grabana/timeseries"
 	"github.com/stretchr/testify/require"
 )
 

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/K-Phoen/grabana/variable/datasource"
+	"github.com/FUSAKLA/grabana/variable/datasource"
 	"github.com/FUSAKLA/sdk"
 	"github.com/stretchr/testify/require"
 )
