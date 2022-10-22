@@ -3,7 +3,7 @@ package stackdriver_test
 import (
 	"testing"
 
-	"github.com/FUSAKLA/grabana/target/stackdriver"
+	"github.com/fusakla/grabana/target/stackdriver"
 	"github.com/stretchr/testify/require"
 )
 

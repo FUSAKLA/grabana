@@ -3,12 +3,12 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/dashboard"
-	"github.com/FUSAKLA/grabana/variable/constant"
-	"github.com/FUSAKLA/grabana/variable/custom"
-	"github.com/FUSAKLA/grabana/variable/datasource"
-	"github.com/FUSAKLA/grabana/variable/interval"
-	"github.com/FUSAKLA/grabana/variable/query"
+	"github.com/fusakla/grabana/dashboard"
+	"github.com/fusakla/grabana/variable/constant"
+	"github.com/fusakla/grabana/variable/custom"
+	"github.com/fusakla/grabana/variable/datasource"
+	"github.com/fusakla/grabana/variable/interval"
+	"github.com/fusakla/grabana/variable/query"
 )
 
 var ErrVariableNotConfigured = fmt.Errorf("variable not configured")

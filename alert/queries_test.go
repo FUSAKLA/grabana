@@ -3,7 +3,7 @@ package alert
 import (
 	"testing"
 
-	"github.com/FUSAKLA/grabana/alert/queries/stackdriver"
+	"github.com/fusakla/grabana/alert/queries/stackdriver"
 
 	"github.com/stretchr/testify/require"
 )

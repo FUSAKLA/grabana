@@ -3,8 +3,8 @@ package axis
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/errors"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/errors"
+	"github.com/fusakla/sdk"
 )
 
 // PlacementMode represents the axis display placement mode.

@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/FUSAKLA/grabana/dashboard"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/dashboard"
+	"github.com/fusakla/sdk"
 )
 
 // ErrDashboardNotFound is returned when the given dashboard can not be found.

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/FUSAKLA/grabana/datasource"
+	"github.com/fusakla/grabana/datasource"
 )
 
 // ErrDatasourceNotFound is returned when the given datasource can not be found.

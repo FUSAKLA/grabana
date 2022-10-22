@@ -3,9 +3,9 @@ package decoder
 import (
 	"testing"
 
-	"github.com/FUSAKLA/grabana/heatmap/axis"
-	"github.com/FUSAKLA/grabana/row"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/heatmap/axis"
+	"github.com/fusakla/grabana/row"
+	"github.com/fusakla/sdk"
 	"github.com/stretchr/testify/require"
 )
 

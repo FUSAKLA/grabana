@@ -1,7 +1,7 @@
 package alert
 
 import (
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/sdk"
 )
 
 // ErrorMode represents the behavior of an alert in case of execution error.

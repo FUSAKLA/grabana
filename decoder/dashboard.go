@@ -3,8 +3,8 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/dashboard"
-	"github.com/FUSAKLA/grabana/row"
+	"github.com/fusakla/grabana/dashboard"
+	"github.com/fusakla/grabana/row"
 )
 
 var ErrPanelNotConfigured = fmt.Errorf("panel not configured")

@@ -3,7 +3,7 @@
 ## Dashboards as code
 
 * [Example](../cmd/builder-example/)
-* [GoDoc](https://pkg.go.dev/github.com/FUSAKLA/grabana?tab=doc)
+* [GoDoc](https://pkg.go.dev/github.com/fusakla/grabana?tab=doc)
 
 ## Dashboards as YAML
 

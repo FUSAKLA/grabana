@@ -3,8 +3,8 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/gauge"
-	"github.com/FUSAKLA/grabana/row"
+	"github.com/fusakla/grabana/gauge"
+	"github.com/fusakla/grabana/row"
 )
 
 var ErrInvalidGaugeThresholdMode = fmt.Errorf("invalid gauge threshold mode")

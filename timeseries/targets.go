@@ -1,12 +1,12 @@
 package timeseries
 
 import (
-	"github.com/FUSAKLA/grabana/target/graphite"
-	"github.com/FUSAKLA/grabana/target/influxdb"
-	"github.com/FUSAKLA/grabana/target/loki"
-	"github.com/FUSAKLA/grabana/target/prometheus"
-	"github.com/FUSAKLA/grabana/target/stackdriver"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/target/graphite"
+	"github.com/fusakla/grabana/target/influxdb"
+	"github.com/fusakla/grabana/target/loki"
+	"github.com/fusakla/grabana/target/prometheus"
+	"github.com/fusakla/grabana/target/stackdriver"
+	"github.com/fusakla/sdk"
 )
 
 // WithPrometheusTarget adds a prometheus query to the graph.

@@ -3,10 +3,10 @@ package row
 import (
 	"testing"
 
-	"github.com/FUSAKLA/grabana/alert"
-	"github.com/FUSAKLA/grabana/graph"
-	"github.com/FUSAKLA/grabana/timeseries"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/alert"
+	"github.com/fusakla/grabana/graph"
+	"github.com/fusakla/grabana/timeseries"
+	"github.com/fusakla/sdk"
 	"github.com/stretchr/testify/require"
 )
 

@@ -4,13 +4,13 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/FUSAKLA/grabana/errors"
-	"github.com/FUSAKLA/grabana/links"
-	"github.com/FUSAKLA/grabana/scheme"
-	"github.com/FUSAKLA/grabana/target/stackdriver"
-	"github.com/FUSAKLA/grabana/timeseries/axis"
-	"github.com/FUSAKLA/grabana/timeseries/fields"
-	"github.com/FUSAKLA/grabana/timeseries/threshold"
+	"github.com/fusakla/grabana/errors"
+	"github.com/fusakla/grabana/links"
+	"github.com/fusakla/grabana/scheme"
+	"github.com/fusakla/grabana/target/stackdriver"
+	"github.com/fusakla/grabana/timeseries/axis"
+	"github.com/fusakla/grabana/timeseries/fields"
+	"github.com/fusakla/grabana/timeseries/threshold"
 	"github.com/stretchr/testify/require"
 )
 

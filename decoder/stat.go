@@ -3,8 +3,8 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/row"
-	"github.com/FUSAKLA/grabana/stat"
+	"github.com/fusakla/grabana/row"
+	"github.com/fusakla/grabana/stat"
 )
 
 var ErrInvalidStatOrientation = fmt.Errorf("invalid orientation")

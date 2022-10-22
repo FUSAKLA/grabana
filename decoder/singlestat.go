@@ -3,8 +3,8 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/row"
-	"github.com/FUSAKLA/grabana/singlestat"
+	"github.com/fusakla/grabana/row"
+	"github.com/fusakla/grabana/singlestat"
 )
 
 var ErrInvalidColoringTarget = fmt.Errorf("invalid coloring target")

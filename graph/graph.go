@@ -3,16 +3,16 @@ package graph
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/alert"
-	"github.com/FUSAKLA/grabana/axis"
-	"github.com/FUSAKLA/grabana/errors"
-	"github.com/FUSAKLA/grabana/graph/series"
-	"github.com/FUSAKLA/grabana/links"
-	"github.com/FUSAKLA/grabana/target/graphite"
-	"github.com/FUSAKLA/grabana/target/influxdb"
-	"github.com/FUSAKLA/grabana/target/prometheus"
-	"github.com/FUSAKLA/grabana/target/stackdriver"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/alert"
+	"github.com/fusakla/grabana/axis"
+	"github.com/fusakla/grabana/errors"
+	"github.com/fusakla/grabana/graph/series"
+	"github.com/fusakla/grabana/links"
+	"github.com/fusakla/grabana/target/graphite"
+	"github.com/fusakla/grabana/target/influxdb"
+	"github.com/fusakla/grabana/target/prometheus"
+	"github.com/fusakla/grabana/target/stackdriver"
+	"github.com/fusakla/sdk"
 )
 
 // Option represents an option that can be used to configure a graph panel.

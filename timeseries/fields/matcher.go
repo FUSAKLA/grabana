@@ -1,7 +1,7 @@
 package fields
 
 import (
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/sdk"
 )
 
 type Matcher func(field *sdk.FieldConfigOverride)

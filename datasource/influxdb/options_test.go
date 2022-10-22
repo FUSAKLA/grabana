@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/FUSAKLA/grabana/errors"
+	"github.com/fusakla/grabana/errors"
 	"github.com/stretchr/testify/require"
 )
 

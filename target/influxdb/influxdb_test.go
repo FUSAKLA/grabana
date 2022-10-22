@@ -3,7 +3,7 @@ package influxdb_test
 import (
 	"testing"
 
-	"github.com/FUSAKLA/grabana/target/influxdb"
+	"github.com/fusakla/grabana/target/influxdb"
 	"github.com/stretchr/testify/require"
 )
 

@@ -1,7 +1,7 @@
 package scheme
 
 import (
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/sdk"
 )
 
 type ColorMode string

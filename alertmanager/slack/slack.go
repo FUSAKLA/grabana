@@ -1,8 +1,8 @@
 package slack
 
 import (
-	"github.com/FUSAKLA/grabana/alertmanager"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/alertmanager"
+	"github.com/fusakla/sdk"
 )
 
 // Option represents an option that can be used to configure a "slack"

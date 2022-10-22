@@ -24,7 +24,7 @@ func selfUpdate(currentVersion string) error {
 		return fmt.Errorf("could not parse current version: %w", err)
 	}
 
-	latest, err := selfupdate.UpdateSelf(current, "FUSAKLA/grabana")
+	latest, err := selfupdate.UpdateSelf(current, "fusakla/grabana")
 	if err != nil {
 		return fmt.Errorf("binary update failed: %w", err)
 	}

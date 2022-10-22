@@ -3,7 +3,7 @@ package decoder
 import (
 	"testing"
 
-	"github.com/FUSAKLA/grabana/singlestat"
+	"github.com/fusakla/grabana/singlestat"
 	"github.com/stretchr/testify/require"
 )
 

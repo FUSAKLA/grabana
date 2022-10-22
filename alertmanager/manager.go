@@ -3,7 +3,7 @@ package alertmanager
 import (
 	"encoding/json"
 
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/sdk"
 )
 
 // Option represents an option that can be used to configure an

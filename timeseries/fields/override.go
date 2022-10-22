@@ -1,6 +1,6 @@
 package fields
 
-import "github.com/FUSAKLA/sdk"
+import "github.com/fusakla/sdk"
 
 type OverrideOption func(field *sdk.FieldConfigOverride)
 

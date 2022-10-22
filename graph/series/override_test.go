@@ -3,8 +3,8 @@ package series
 import (
 	"testing"
 
-	"github.com/FUSAKLA/grabana/errors"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/errors"
+	"github.com/fusakla/sdk"
 	"github.com/stretchr/testify/require"
 )
 

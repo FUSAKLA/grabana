@@ -6,12 +6,12 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/FUSAKLA/grabana"
-	"github.com/FUSAKLA/grabana/alertmanager"
-	"github.com/FUSAKLA/grabana/alertmanager/email"
-	"github.com/FUSAKLA/grabana/alertmanager/opsgenie"
-	"github.com/FUSAKLA/grabana/alertmanager/slack"
-	"github.com/FUSAKLA/grabana/alertmanager/webhook"
+	"github.com/fusakla/grabana"
+	"github.com/fusakla/grabana/alertmanager"
+	"github.com/fusakla/grabana/alertmanager/email"
+	"github.com/fusakla/grabana/alertmanager/opsgenie"
+	"github.com/fusakla/grabana/alertmanager/slack"
+	"github.com/fusakla/grabana/alertmanager/webhook"
 )
 
 func main() {

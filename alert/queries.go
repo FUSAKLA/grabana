@@ -1,11 +1,11 @@
 package alert
 
 import (
-	"github.com/FUSAKLA/grabana/alert/queries/graphite"
-	"github.com/FUSAKLA/grabana/alert/queries/influxdb"
-	"github.com/FUSAKLA/grabana/alert/queries/loki"
-	"github.com/FUSAKLA/grabana/alert/queries/prometheus"
-	"github.com/FUSAKLA/grabana/alert/queries/stackdriver"
+	"github.com/fusakla/grabana/alert/queries/graphite"
+	"github.com/fusakla/grabana/alert/queries/influxdb"
+	"github.com/fusakla/grabana/alert/queries/loki"
+	"github.com/fusakla/grabana/alert/queries/prometheus"
+	"github.com/fusakla/grabana/alert/queries/stackdriver"
 )
 
 // WithPrometheusQuery adds a prometheus query to the alert.

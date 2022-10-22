@@ -3,14 +3,14 @@ package heatmap
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/errors"
-	"github.com/FUSAKLA/grabana/heatmap/axis"
-	"github.com/FUSAKLA/grabana/links"
-	"github.com/FUSAKLA/grabana/target/graphite"
-	"github.com/FUSAKLA/grabana/target/influxdb"
-	"github.com/FUSAKLA/grabana/target/prometheus"
-	"github.com/FUSAKLA/grabana/target/stackdriver"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/errors"
+	"github.com/fusakla/grabana/heatmap/axis"
+	"github.com/fusakla/grabana/links"
+	"github.com/fusakla/grabana/target/graphite"
+	"github.com/fusakla/grabana/target/influxdb"
+	"github.com/fusakla/grabana/target/prometheus"
+	"github.com/fusakla/grabana/target/stackdriver"
+	"github.com/fusakla/sdk"
 )
 
 // DataFormatMode represents the data format modes.

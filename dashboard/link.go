@@ -1,6 +1,6 @@
 package dashboard
 
-import "github.com/FUSAKLA/sdk"
+import "github.com/fusakla/sdk"
 
 type LinkIcon string
 

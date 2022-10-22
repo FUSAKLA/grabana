@@ -1,6 +1,6 @@
 package influxdb
 
-import "github.com/FUSAKLA/sdk"
+import "github.com/fusakla/sdk"
 
 // Option represents an option that can be used to configure a influxdb query.
 type Option func(target *InfluxDB)

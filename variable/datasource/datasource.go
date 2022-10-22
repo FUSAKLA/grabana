@@ -1,7 +1,7 @@
 package datasource
 
 import (
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/sdk"
 )
 
 // Option represents an option that can be used to configure a query.

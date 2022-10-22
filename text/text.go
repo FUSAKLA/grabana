@@ -3,9 +3,9 @@ package text
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/errors"
-	"github.com/FUSAKLA/grabana/links"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/errors"
+	"github.com/fusakla/grabana/links"
+	"github.com/fusakla/sdk"
 )
 
 // Option represents an option that can be used to configure a text panel.

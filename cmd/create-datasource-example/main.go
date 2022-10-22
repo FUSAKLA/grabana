@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/FUSAKLA/grabana"
-	"github.com/FUSAKLA/grabana/datasource/prometheus"
+	"github.com/fusakla/grabana"
+	"github.com/fusakla/grabana/datasource/prometheus"
 )
 
 func main() {

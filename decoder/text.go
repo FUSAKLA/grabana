@@ -1,8 +1,8 @@
 package decoder
 
 import (
-	"github.com/FUSAKLA/grabana/row"
-	"github.com/FUSAKLA/grabana/text"
+	"github.com/fusakla/grabana/row"
+	"github.com/fusakla/grabana/text"
 )
 
 type DashboardText struct {

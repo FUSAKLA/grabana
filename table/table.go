@@ -3,12 +3,12 @@ package table
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/errors"
-	"github.com/FUSAKLA/grabana/links"
-	"github.com/FUSAKLA/grabana/target/graphite"
-	"github.com/FUSAKLA/grabana/target/influxdb"
-	"github.com/FUSAKLA/grabana/target/prometheus"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/errors"
+	"github.com/fusakla/grabana/links"
+	"github.com/fusakla/grabana/target/graphite"
+	"github.com/fusakla/grabana/target/influxdb"
+	"github.com/fusakla/grabana/target/prometheus"
+	"github.com/fusakla/sdk"
 )
 
 // Option represents an option that can be used to configure a table panel.

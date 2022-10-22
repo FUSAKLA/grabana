@@ -1,8 +1,8 @@
 package decoder
 
 import (
-	"github.com/FUSAKLA/grabana/row"
-	"github.com/FUSAKLA/grabana/table"
+	"github.com/fusakla/grabana/row"
+	"github.com/fusakla/grabana/table"
 )
 
 // DashboardTable represents a table panel.

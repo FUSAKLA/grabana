@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/sdk"
 )
 
 type InfluxQL struct {

@@ -6,10 +6,10 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/FUSAKLA/grabana"
-	"github.com/FUSAKLA/grabana/dashboard"
-	"github.com/FUSAKLA/grabana/gauge"
-	"github.com/FUSAKLA/grabana/row"
+	"github.com/fusakla/grabana"
+	"github.com/fusakla/grabana/dashboard"
+	"github.com/fusakla/grabana/gauge"
+	"github.com/fusakla/grabana/row"
 )
 
 func main() {

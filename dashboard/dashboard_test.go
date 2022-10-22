@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"testing"
 
-	"github.com/FUSAKLA/grabana/variable/datasource"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/variable/datasource"
+	"github.com/fusakla/sdk"
 	"github.com/stretchr/testify/require"
 )
 

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/FUSAKLA/grabana/decoder"
+	"github.com/fusakla/grabana/decoder"
 	"github.com/spf13/cobra"
 )
 

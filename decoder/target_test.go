@@ -3,11 +3,11 @@ package decoder
 import (
 	"testing"
 
-	"github.com/FUSAKLA/grabana/target/influxdb"
+	"github.com/fusakla/grabana/target/influxdb"
 
-	"github.com/FUSAKLA/grabana/target/graphite"
-	"github.com/FUSAKLA/grabana/target/prometheus"
-	"github.com/FUSAKLA/grabana/target/stackdriver"
+	"github.com/fusakla/grabana/target/graphite"
+	"github.com/fusakla/grabana/target/prometheus"
+	"github.com/fusakla/grabana/target/stackdriver"
 	"github.com/stretchr/testify/require"
 )
 

@@ -3,7 +3,7 @@ package prometheus
 import (
 	"time"
 
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/sdk"
 )
 
 // Option represents an option that can be used to configure a prometheus query.

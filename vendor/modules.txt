@@ -1,11 +1,11 @@
-# github.com/FUSAKLA/sdk v0.12.1
-## explicit
-github.com/FUSAKLA/sdk
 # github.com/blang/semver v3.5.1+incompatible
 ## explicit
 github.com/blang/semver
 # github.com/davecgh/go-spew v1.1.1
 github.com/davecgh/go-spew/spew
+# github.com/fusakla/sdk v0.12.2
+## explicit
+github.com/fusakla/sdk
 # github.com/golang/protobuf v1.5.2
 github.com/golang/protobuf/proto
 # github.com/google/go-github/v30 v30.1.0

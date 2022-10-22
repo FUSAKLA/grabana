@@ -3,7 +3,7 @@ package scheme
 import (
 	"testing"
 
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/sdk"
 	"github.com/stretchr/testify/require"
 )
 

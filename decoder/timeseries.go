@@ -3,9 +3,9 @@ package decoder
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/row"
-	"github.com/FUSAKLA/grabana/timeseries"
-	"github.com/FUSAKLA/grabana/timeseries/axis"
+	"github.com/fusakla/grabana/row"
+	"github.com/fusakla/grabana/timeseries"
+	"github.com/fusakla/grabana/timeseries/axis"
 )
 
 var ErrInvalidGradientMode = fmt.Errorf("invalid gradient mode")

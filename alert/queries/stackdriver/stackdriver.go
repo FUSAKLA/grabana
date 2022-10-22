@@ -3,7 +3,7 @@ package stackdriver
 import (
 	"time"
 
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/sdk"
 )
 
 const AlignmentStackdriverAuto = "stackdriver-auto"

@@ -3,8 +3,8 @@ package text
 import (
 	"testing"
 
-	"github.com/FUSAKLA/grabana/errors"
-	"github.com/FUSAKLA/grabana/links"
+	"github.com/fusakla/grabana/errors"
+	"github.com/fusakla/grabana/links"
 	"github.com/stretchr/testify/require"
 )
 

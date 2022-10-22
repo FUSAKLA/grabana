@@ -3,8 +3,8 @@ package series
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/errors"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/errors"
+	"github.com/fusakla/sdk"
 )
 
 // OverrideOption represents an option that can be used alter a graph panel series.

@@ -3,9 +3,9 @@ package decoder
 import (
 	"testing"
 
-	"github.com/FUSAKLA/grabana/dashboard"
-	"github.com/FUSAKLA/grabana/timeseries"
-	"github.com/FUSAKLA/grabana/timeseries/axis"
+	"github.com/fusakla/grabana/dashboard"
+	"github.com/fusakla/grabana/timeseries"
+	"github.com/fusakla/grabana/timeseries/axis"
 	"github.com/stretchr/testify/require"
 )
 

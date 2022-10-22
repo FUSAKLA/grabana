@@ -3,10 +3,10 @@ package logs
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/errors"
-	"github.com/FUSAKLA/grabana/links"
-	"github.com/FUSAKLA/grabana/target/loki"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/errors"
+	"github.com/fusakla/grabana/links"
+	"github.com/fusakla/grabana/target/loki"
+	"github.com/fusakla/sdk"
 )
 
 // DedupStrategy represents a deduplication strategy.

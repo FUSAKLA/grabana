@@ -9,14 +9,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/sdk"
 
-	"github.com/FUSAKLA/grabana/alert"
+	"github.com/fusakla/grabana/alert"
 
-	"github.com/FUSAKLA/grabana/dashboard"
-	"github.com/FUSAKLA/grabana/row"
-	"github.com/FUSAKLA/grabana/text"
-	"github.com/FUSAKLA/grabana/timeseries"
+	"github.com/fusakla/grabana/dashboard"
+	"github.com/fusakla/grabana/row"
+	"github.com/fusakla/grabana/text"
+	"github.com/fusakla/grabana/timeseries"
 	"github.com/stretchr/testify/require"
 )
 

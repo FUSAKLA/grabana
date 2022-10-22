@@ -3,8 +3,8 @@ package jaeger
 import (
 	"encoding/json"
 
-	"github.com/FUSAKLA/grabana/datasource"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/datasource"
+	"github.com/fusakla/sdk"
 )
 
 var _ datasource.Datasource = Jaeger{}

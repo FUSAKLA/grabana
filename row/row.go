@@ -1,17 +1,17 @@
 package row
 
 import (
-	"github.com/FUSAKLA/grabana/alert"
-	"github.com/FUSAKLA/grabana/gauge"
-	"github.com/FUSAKLA/grabana/graph"
-	"github.com/FUSAKLA/grabana/heatmap"
-	"github.com/FUSAKLA/grabana/logs"
-	"github.com/FUSAKLA/grabana/singlestat"
-	"github.com/FUSAKLA/grabana/stat"
-	"github.com/FUSAKLA/grabana/table"
-	"github.com/FUSAKLA/grabana/text"
-	"github.com/FUSAKLA/grabana/timeseries"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/alert"
+	"github.com/fusakla/grabana/gauge"
+	"github.com/fusakla/grabana/graph"
+	"github.com/fusakla/grabana/heatmap"
+	"github.com/fusakla/grabana/logs"
+	"github.com/fusakla/grabana/singlestat"
+	"github.com/fusakla/grabana/stat"
+	"github.com/fusakla/grabana/table"
+	"github.com/fusakla/grabana/text"
+	"github.com/fusakla/grabana/timeseries"
+	"github.com/fusakla/sdk"
 )
 
 // Option represents an option that can be used to configure a row.

@@ -8,9 +8,9 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/FUSAKLA/grabana/alert"
-	"github.com/FUSAKLA/grabana/alertmanager"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/alert"
+	"github.com/fusakla/grabana/alertmanager"
+	"github.com/fusakla/sdk"
 )
 
 // ErrAlertNotFound is returned when the requested alert can not be found.

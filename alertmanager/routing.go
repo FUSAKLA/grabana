@@ -1,7 +1,7 @@
 package alertmanager
 
 import (
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/sdk"
 )
 
 // RoutingPolicyOption represents an option that can be used to configure a

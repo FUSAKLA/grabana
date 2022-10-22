@@ -3,14 +3,14 @@ package timeseries
 import (
 	"fmt"
 
-	"github.com/FUSAKLA/grabana/alert"
-	"github.com/FUSAKLA/grabana/errors"
-	"github.com/FUSAKLA/grabana/links"
-	"github.com/FUSAKLA/grabana/scheme"
-	"github.com/FUSAKLA/grabana/timeseries/axis"
-	"github.com/FUSAKLA/grabana/timeseries/fields"
-	"github.com/FUSAKLA/grabana/timeseries/threshold"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/alert"
+	"github.com/fusakla/grabana/errors"
+	"github.com/fusakla/grabana/links"
+	"github.com/fusakla/grabana/scheme"
+	"github.com/fusakla/grabana/timeseries/axis"
+	"github.com/fusakla/grabana/timeseries/fields"
+	"github.com/fusakla/grabana/timeseries/threshold"
+	"github.com/fusakla/sdk"
 )
 
 // Option represents an option that can be used to configure a graph panel.

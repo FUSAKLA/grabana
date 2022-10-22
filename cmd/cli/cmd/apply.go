@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/FUSAKLA/grabana"
-	"github.com/FUSAKLA/grabana/decoder"
+	"github.com/fusakla/grabana"
+	"github.com/fusakla/grabana/decoder"
 	"github.com/spf13/cobra"
 )
 

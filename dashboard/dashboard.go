@@ -7,15 +7,15 @@ import (
 	"encoding/hex"
 	"encoding/json"
 
-	"github.com/FUSAKLA/grabana/alert"
+	"github.com/fusakla/grabana/alert"
 
-	"github.com/FUSAKLA/grabana/row"
-	"github.com/FUSAKLA/grabana/variable/constant"
-	"github.com/FUSAKLA/grabana/variable/custom"
-	"github.com/FUSAKLA/grabana/variable/datasource"
-	"github.com/FUSAKLA/grabana/variable/interval"
-	"github.com/FUSAKLA/grabana/variable/query"
-	"github.com/FUSAKLA/sdk"
+	"github.com/fusakla/grabana/row"
+	"github.com/fusakla/grabana/variable/constant"
+	"github.com/fusakla/grabana/variable/custom"
+	"github.com/fusakla/grabana/variable/datasource"
+	"github.com/fusakla/grabana/variable/interval"
+	"github.com/fusakla/grabana/variable/query"
+	"github.com/fusakla/sdk"
 )
 
 // TagAnnotation describes an annotation represented as a Tag.

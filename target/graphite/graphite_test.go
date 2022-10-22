@@ -3,7 +3,7 @@ package graphite_test
 import (
 	"testing"
 
-	"github.com/FUSAKLA/grabana/target/graphite"
+	"github.com/fusakla/grabana/target/graphite"
 	"github.com/stretchr/testify/require"
 )
 

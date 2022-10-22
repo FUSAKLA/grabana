@@ -1,6 +1,6 @@
 # Grabana
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/FUSAKLA/grabana)](https://goreportcard.com/report/github.com/FUSAKLA/grabana) ![CI](https://github.com/FUSAKLA/grabana/workflows/CI/badge.svg) [![codecov](https://codecov.io/gh/FUSAKLA/grabana/branch/master/graph/badge.svg)](https://codecov.io/gh/FUSAKLA/grabana) [![GoDoc](https://godoc.org/github.com/FUSAKLA/grabana?status.svg)](https://godoc.org/github.com/FUSAKLA/grabana)
+[![Go Report Card](https://goreportcard.com/badge/github.com/fusakla/grabana)](https://goreportcard.com/report/github.com/fusakla/grabana) ![CI](https://github.com/fusakla/grabana/workflows/CI/badge.svg) [![codecov](https://codecov.io/gh/fusakla/grabana/branch/master/graph/badge.svg)](https://codecov.io/gh/fusakla/grabana) [![GoDoc](https://godoc.org/github.com/fusakla/grabana?status.svg)](https://godoc.org/github.com/fusakla/grabana)
 
 Grabana provides a developer-friendly way of creating Grafana dashboards.
 
