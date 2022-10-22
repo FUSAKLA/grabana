@@ -1,9 +1,9 @@
-module github.com/FUSAKLA/grabana
+module github.com/fusakla/grabana
 
 go 1.16
 
 require (
-	github.com/FUSAKLA/sdk v0.12.1
+	github.com/fusakla/sdk v0.12.1
 	github.com/blang/semver v3.5.1+incompatible
 	github.com/prometheus/common v0.34.0
 	github.com/rhysd/go-github-selfupdate v1.2.3
